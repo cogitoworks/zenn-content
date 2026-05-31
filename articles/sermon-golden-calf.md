@@ -3,7 +3,7 @@ title: "あなたは、自分のために、偶像を造ってはならない。
 emoji: "⛪"
 type: "idea"
 topics: ["AI", "LLM", "生成AI", "Palantir", "ポエム"]
-published: false
+published: true
 ---
 
 *The idol you build to answer you will never tell you it is lying. That is the whole reason you built it.*
